@@ -1,12 +1,24 @@
 
-### Explanation:
-An anti-procrastinator that helps you stay on track of your to-do list. New features will be added soon.
-- **Features**: Lists the main functionalities of the application.
-- **Setup and Installation**: Provides instructions for setting up the project locally.
-- **Usage**: Explains how to use the application once it's running.
-- **Future Improvements**: Suggests possible future enhancements to the project.
-- **Contributing**: Provides guidelines for anyone interested in contributing to the project.
-- **License**: Specifies the license under which the project is released.
-- **Acknowledgements**: A space to thank those who helped with the project.
+# Anti-Procrastinator Robot Application
 
-This `README.md` serves as a comprehensive guide to your project and helps others understand its purpose and how to contribute.
+This is a desktop application built using C++ and the Qt framework. The application features a robot widget that helps users manage tasks by providing reminders. Users can input tasks, set their priorities, and specify reminder intervals. The robot will remind the user about upcoming tasks and keep track of task completion.
+
+## Features
+
+- **Task Management**: Users can add tasks with a priority level (1-10). Tasks are automatically sorted by priority.
+- **Reminders**: The application provides notifications at user-defined intervals (ranging from 1 to 180 minutes) to remind users about their tasks.
+- **Interactive Robot Widget**: The robot widget can be dragged around the screen, and it remains on top of other windows.
+- **Custom Notifications**: The application notifies users when no tasks are entered initially and provides reminders for upcoming tasks.
+
+## Setup and Installation
+
+### Prerequisites
+- Visual Studio with C++ and Qt framework installed.
+- Git (optional, for version control).
+
+### Cloning the Repository
+To clone this project to your local machine:
+
+```bash
+git clone https://github.com/yourusername/anti-procrastinator-robot.git
+
