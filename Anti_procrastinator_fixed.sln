@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Anti_procrastinator_fixed", "Anti_procrastinator_fixed.vcxproj", "{C5C149AA-1486-47F0-9479-B0F67CFDBA16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C149AA-1486-47F0-9479-B0F67CFDBA16}.Debug|x64.ActiveCfg = Debug|x64
+		{C5C149AA-1486-47F0-9479-B0F67CFDBA16}.Debug|x64.Build.0 = Debug|x64
+		{C5C149AA-1486-47F0-9479-B0F67CFDBA16}.Release|x64.ActiveCfg = Release|x64
+		{C5C149AA-1486-47F0-9479-B0F67CFDBA16}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DFFA346-78ED-4A5F-9458-CCF3A0971AC2}
+	EndGlobalSection
+EndGlobal
