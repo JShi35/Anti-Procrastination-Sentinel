@@ -1,5 +1,6 @@
 
 ### Explanation:
+An anti-procrastinator that helps you stay on track of your to-do list. New features will be added soon.
 - **Features**: Lists the main functionalities of the application.
 - **Setup and Installation**: Provides instructions for setting up the project locally.
 - **Usage**: Explains how to use the application once it's running.
